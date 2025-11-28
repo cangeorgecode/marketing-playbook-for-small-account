@@ -16,3 +16,16 @@ I am not trying to be pessimistic and all, but a 9 to 5 is never for me. I start
 
 I am sharing the sales and marketing bit here for my fellow solopreneurs, because I know how much you don't like doing it ;)
 
+&nbsp;
+
+# Product Idea - What are you actually going to sell?
+
+Everyone on the internet is telling me to "solve your own problem", "follow your passion". Well, I have many problems - I don't like working a 9 to 5, I have a family and we don't get paid enough. I am also passionate about many things - powerlifting, anything tech-related.   
+
+But all of that is so vague and it doesn't tell me what I can sell.  
+
+Maybe I am being dramatic here, but I want to make money doing the things that I enjoy doing. If I want to make money and be miserable, I can always look for another job.  
+
+## How I finally found the product I can sell?
+
+I first imagined what my dream life looks like - I want to work anywhere, work for myself, work on my own schedule so I can spend time with my family. 
