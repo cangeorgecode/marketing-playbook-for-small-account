@@ -66,25 +66,20 @@ Cold traffic → value → value → warm lead → sale.
 That’s the whole funnel.  
 It works with 100 followers or 100,000 followers — only the speed changes.
 
-### The Robot I Actually Built (so you know this isn’t theory
+The Robot I Actually Built (this is the part that makes people go “holy shit”)
 Right now the whole system runs like this:
 
-1. I take one simple picture (usually a screenshot or a meme).
-2. I write the script myself (9–12 sentences max) because AI copy still sounds like robot vomit.
-3. My program turns that picture + script into a full Reel:  
-   - adds voiceover (elevenlabs or my own voice)  
-   - adds animated text overlay  
-   - adds background music  
-   - exports perfect 1080×1920 video
-4. The same program automatically uploads one Reel per day to Instagram using the **official Graph API** (no browser automation, no bans).
-5. The second someone comments → the robot instantly DMs them this exact guide you’re reading.
-6. Later follow-ups and offers are also sent automatically.
+I take one simple picture (screenshot, meme, whatever).
+I write a short script myself (9–12 sentences) because AI still can’t copywrite like a human.
+My program turns that one picture + script into a full, perfect Reel with voiceover, animated text, background music, 1080×1920.
+→ I have literally created 30+ Reels without filming even 1 second of video.
+→ That’s the power of this thing.
+The same program automatically uploads one Reel every single day using the official Instagram Graph API (100 % compliant, zero ban risk).
+The second someone comments → the robot instantly DMs them this exact guide you’re reading.
+Follow-up messages and offers go out automatically too.
 
-Everything is 100 % compliant with Instagram’s rules because I only use the official API with a proper business account.  
-Zero risk of getting shut down.
-
-I spent months building this because I refused to become a “content creator”.  
-Now the robot does the part I hate, and I only do the part I love (building and coding).
+I built this because I refused to become another “camera-face” creator.
+Now the robot does the part I hate, and I just sit back and watch the DMs roll in.
 
 ### Current results (being 100 % honest)
 - Followers right now: less than 300  
