@@ -1,77 +1,113 @@
-# The Marketing Playbook for solopreneurs with a small follower count
+# The Marketing Playbook for Solopreneurs Who Hate Marketing
+(works even if you have 200 followers)
 
-This is the content strategy for solopreneurs who love to build but hate to create content for Instagram. 
+This guide is for people who love building stuff but hate creating content and hate marketing even more.
+I am writing this with zero results to show yet.
+I have less than 300 followers right now and I have made $0 from Instagram so far.
+But the robot already runs every day without me touching anything.
+That’s the whole point of this guide.
+Why I picked Instagram (even though I hate it)
+Among text, pictures, and video, short-form video is the hardest to create.
+It takes the most time, the most energy, and the most creativity.
+If I can automate the hardest thing, everything else becomes easy.
+That’s why I chose Instagram Reels.
+How to find your product idea (the beginner way)
+You don’t need to “find” ideas.
+You just decide the life you want, then every single thing that blocks you from that life becomes your product.
+Example:
+I wanted to run an online business from anywhere, on my own schedule.
+The biggest block? I hate creating content. It’s boring, repetitive, and takes hours to film and edit.
+So I built a robot that creates and posts Reels for me.
+That robot is now my product.
+Your turn:
+Ask yourself – what kind of life do you really want?
+What is the ONE thing that keeps stopping you?
+Solve that for yourself first.
+That solution is your product.
+You only need 2–3 pain points forever (not 100 ideas)
+I only talk about three pains that I personally experienced.
+I repeat them in every reel, just phrased differently.
+My three pains (and yours probably too):
 
-&nbsp;
+I find content creation boring, tedious, and repetitive — I can’t stick to it for more than a few days.
+I can’t think of 100 new ideas — my brain goes blank after 5 posts.
+Filming and editing takes hours — I would rather code or build apps.
 
-## Why Instagram?  
+That’s it. Three pains. Infinite content.
+Content matrix – mix and match (you never run out of ideas again)
 
-Because making video content is harder than making text-based content
-- automatically generate reels with voiceover and text overlay
-- and then automatically uploads to Instagram using the official API
 
-&nbsp;
 
-## Product Idea - What to build?
 
-I start with a goal in mind and whatever gets in the way of achieving it, I remove it. HOW I remove it becomes my product.  
 
-Here's an example - I want to start an online business so I can work anywhere on my own schedule, but I hate creating content. It's tedious, time consuming and it takes a lot of effort coming up with content.  
 
-I was inconsistent in my posting schedule and my content feels empty.  
 
-My solution? I wrote some code to automate reels generation and upload. Now, I can effortlessly create reels.  
 
-Think of a gigantic problem you have solved and most likely, many others are facing the same problem and that's your niche.  
 
-&nbsp;
 
-## Content creation - copywriting  
 
-But why does it matter what you build?  
 
-It matters a lot because if it is a painful problem you experienced first hand and you overcame it one way or another, that gives you SOOOO much conviction when it comes time to pitch it to your potential customer.  
 
-THAT is where you draw inspiration from to write about it.  
 
-But knowing only the pain is half the equation. Knowing how to frame it and present it to your audience needs a bit more skill.  
 
-This is how I write for my content:-
-1. Start with presenting the value - (dream outcome x perceived likelihood of success) / (time and effort). E.g., "This is how I create 10 pieces of reels without acutally filming for any content as a solopreneur in less than 30 minutes".
-2. Talk about the problem, agitate it a bit, bring up the emotional trauma.
-3. Then present your solution.
-4. ALWAYS ALWAYS include a call to action
 
-But isn't it exhausing trying to come up with what to talk about everyday?  
 
-It is, but the truth is, you don't need 100 unqiue ideas to create content on. In fact, you just need 2 to 3 core ideas and then frame them differently.  
 
-Here is what I mean.
 
-Core content idea:- I am a self taught developer who wants to create multiple successful SaaS. I love building and creating SaaS but I don't particularly like or know how to do marketing to get people to use my apps.  
 
-3 different ways to present my core idea:
 
-1. Here's how I went from posting every few days to posting regularly without burning out as a developer
-2. Did you know that you can create almost 100 pieces of content from just 2-3 core ideas?
-3. If you love building SaaS but hate doing marketing, this is how I only spend 30 minutes a week on marketing and still get thousands of sign ups to my SaaS
 
-The key is to list out the pain points you have experienced, which is why it is important to do something you are passionate about, so that when hard time comes, and it will come, you can keep going.  
 
-&nbsp;
 
-## Marketing - How to get clients even if you have a small follower count
 
-I don't believe having a massive followers is a must. As you niche down, the number of potential client reduces, so naturally, you might only have a very small follower base.  
 
-But that is your advantage because you don't need to worry about growing your account which can take some time, if done properly.  
 
-So, what's the secret to converting a viewer to a customer? Just posting content alone is not enough.  
 
-You need to be purposeful with your CTA and this is how:-
 
-At the end of each piece of content, you always want to ask your viewer to comment. When they do, you send them a free guide in the DM. You wait a few days, give them something of value again. You wait a few more days and you finally make them an offer.  
 
-That is called a marketing funnel. It goes from traffic -> values -> product awareness -> sale  
 
-&nbsp;
+
+
+
+
+Hook (start of reel)Pain point (middle)Solution & benefit (end)CTA (last 3 seconds)Did you know……content creation is boring and I burn out in a week?I built a robot that makes reels while I sleepComment “GUIDE” for the free guideHave you ever noticed……you spend 5 hours filming one reel and still hate the result?Now I spend 30 minutes a week and get better resultsComment “ROBOT” and I’ll DM youThis is how I went from……hating marketing and posting once a month…to posting every day without touching my phoneSave this + comment “AUTOMATE”How I achieved [dream] even though [setback]…I’m a developer who would rather code than talk to cameraBuilt a system that runs 100 % autonomouslyShare this with a friend who hates IG
+Just pick one from each column → you have a new reel.
+3 hooks × 3 pains × 3 solutions = dozens of reels from the same idea.
+The exact funnel I use (step-by-step (for complete beginners)
+
+You post a reel using the matrix above.
+At the end you say:
+“If you also hate creating content, comment the word GUIDE and I will send you my free playbook in DM.”
+The second someone comments → my robot instantly sends them this exact guide you are reading right now.
+3–4 days later → I (or the robot) send a short extra tip (example: “here’s the google sheet I use to generate 100 hooks from 3 pains”).
+7–10 days after their comment → I send a soft offer:
+“Want me to build the exact same robot for you so you never have to create content again? Reply YES and I’ll tell you the price.”
+
+Cold traffic → value → value → warm lead → sale.
+That’s the whole funnel.
+It works with 100 followers or 100, followers — only the speed changes.
+Current results (being 100 % honest)
+
+Followers right now: less than 300
+Money made from Instagram: $0 (as of today)
+Reels posted by robot so far: 50+
+Comments received: growing every day
+Leads in DM: growing every day
+
+I am not “successful” yet.
+But the system runs without me.
+And every day it gets me one step closer.
+Final words
+If you are a builder who hates marketing,
+stop trying to become a good marketer.
+Become the person who builds robots that do the marketing for you.
+Then sell those robots to everyone else who hates it too.
+Keep shipping.
+Keep being honest.
+The money will come — it just takes longer than the gurus say.
+This guide will be updated every time I learn something new or when I finally close my first $10k client from this funnel.
+Star this repo if you’re on the same journey.
+– a developer who is tired of pretending
+That’s it.
+No fluff. No fake numbers. No lambo.
+Just the truth from someone who is walking the same path as you.
