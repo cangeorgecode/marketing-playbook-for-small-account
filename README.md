@@ -8,7 +8,7 @@ But this guide isn't about what I have built. I am sharing the marketing princip
 &nbsp;
 
 
-## How I used to do marketing before
+## How I used to do marketing
 
 1. I do a thing, record myself doing it, talk over the video, do a bit of editing, and then post it
 2. I try to be consistent and do this everyday
@@ -17,7 +17,17 @@ But this guide isn't about what I have built. I am sharing the marketing princip
 
 ## How I do marketing now  
 
-[![Demo Video](https://i9.ytimg.com/vi_webp/V0jCWXrU03w/mq3.webp?sqp=CODiqskG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgZygeMA8=&rs=AOn4CLCFa4Ik4sZk3CCagfiPmfEKpqic-Q)](https://youtu.be/V0jCWXrU03w)
+[![Demo Video](https://i9.ytimg.com/vi_webp/V0jCWXrU03w/mq3.webp?sqp=CODiqskG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgZygeMA8=&rs=AOn4CLCFa4Ik4sZk3CCagfiPmfEKpqic-Q)](https://youtu.be/V0jCWXrU03w){target="_blank"}
+
+I have created a program that can generate reels for me, add voiceover, add text overlay (not shown in the demo), and upload to my Instagram account and Story for me.  
+
+It is still in development but theorectically, I can create content without doing any filming or editing. It can also scale to multiple accounts.  
+
+At the moment, the script is still written manually by myself because I am not quite satisfied with what AI wrote for me. 
+
+
+&nbsp;
+
 
 ### How I found my product idea after trying 100s of ideas, shipped 20 SaaS  
 You don’t need to “find” ideas.  
