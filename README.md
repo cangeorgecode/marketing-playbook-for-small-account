@@ -1,20 +1,23 @@
-# The Marketing Playbook for Solopreneurs Who Hate Marketing  
-I am a self-taught developer who struggled with marketing big time. 
+# The Marketing Playbook for Solopreneurs Who don't like or don't know how to do Marketing  
+After launching 20 SaaS, made 3 sales and $87 in the last 2 years as a solopreneur, I realize something needs to change. I have never been consistent with marketing because it's time consuming and I burnt out trying to come up with content, filming and editing everyday. I would post for a few days and then disappear for months.   
+
+That's when it hit me. What if I could automate content creation and posting? So I began building a content creation machine that can run on its own.  
+
+But this guide isn't about what I have built. I am sharing the marketing principle that I learned along the way. 
+
+&nbsp;
 
 
 ## How I used to do marketing before
 
-1. I tried to record myself everyday
-2. Post daily (if I feel like it)
-3. Burnt out and don't know what content I can talk about
-4. Gave up after a few days
+1. I do a thing, record myself doing it, talk over the video, do a bit of editing, and then post it
+2. I try to be consistent and do this everyday
+3. I soon realized that I ran out of things to talk about and I was burning out
+4. I gave up and disappeared
 
 ## How I do marketing now  
 
-1. I write the scripts based on 2-3 pain points that I have experienced
-2. I use my own program to create reels without filming even 1 second of content
-3. My program automatically uploads to Instagram using the official API
-4. My program doesn't complain and it doesn't burnout
+[![Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/V0jCWXrU03w))
 
 ### How I found my product idea after trying 100s of ideas, shipped 20 SaaS  
 You don’t need to “find” ideas.  
