@@ -17,7 +17,9 @@ But this guide isn't about what I have built. I am sharing the marketing princip
 
 ## How I do marketing now  
 
-[![Demo Video](https://i9.ytimg.com/vi_webp/V0jCWXrU03w/mq3.webp?sqp=CODiqskG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgZygeMA8=&rs=AOn4CLCFa4Ik4sZk3CCagfiPmfEKpqic-Q)](https://youtu.be/V0jCWXrU03w){target="_blank"}
+<a href="https://youtu.be/V0jCWXrU03w" target="_blank">
+  <img src="https://i9.ytimg.com/vi_webp/V0jCWXrU03w/mq3.webp?sqp=CODiqskG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgZygeMA8=&rs=AOn4CLCFa4Ik4sZk3CCagfiPmfEKpqic-Q" alt="Demo Video" width="100%">
+</a>
 
 I have created a program that can generate reels for me, add voiceover, add text overlay (not shown in the demo), and upload to my Instagram account and Story for me.  
 
