@@ -17,7 +17,7 @@ But this guide isn't about what I have built. I am sharing the marketing princip
 
 ## How I do marketing now  
 
-[![Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/V0jCWXrU03w))
+[![Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/V0jCWXrU03w)
 
 ### How I found my product idea after trying 100s of ideas, shipped 20 SaaS  
 You don’t need to “find” ideas.  
